@@ -9,7 +9,6 @@
 
 
 ## Write a short comment describing this function
-
 ##function description
 ##function (makeCacheMatrix) is created to set up the value of matrix and return the value of matrix 
 ##set up the value of inverse matrix and return the value of inverse matrix 
